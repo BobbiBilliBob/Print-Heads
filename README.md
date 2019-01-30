@@ -1,7 +1,5 @@
 # Print-Heads
 
-Here you can find sources for different version of Z-Bolt Print Heads
-
 ## PH_4010
 It's a print head for 4010 fans. 
 
